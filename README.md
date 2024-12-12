@@ -1,5 +1,5 @@
-**Credit Risk Modelling Application
-**
+Credit Risk Modelling Application
+
 This project is an interactive web-based credit risk modeling application that calculates the probability of loan default, assigns a credit score, and provides a rating based on user inputs. Developed using a combination of machine learning and web technologies, this application offers insights into credit risk for financial institutions and users alike.
 Features
 
